@@ -1,1 +1,2 @@
 # Netflix-Capstone-Project
+This is my capstone project for the visualizing data with python skill path on codecademy Please dont forget to download the power point to see it or watch the video link for videos https://drive.google.com/drive/folders/1dC40UMQV8ycrKYuSwJM4T1y8k41F92UY?usp=sharing link for my code powerpoint - https://drive.google.com/drive/folders/12m-fZ4WPKafp3Z7E4N3GXhzPxZ4tvcQ2?usp=sharing
